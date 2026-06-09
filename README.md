@@ -26,7 +26,18 @@ https://github.com/YOUR_GITHUB_USERNAME/AgroVision-AI/assets/demo/agrovision_dem
 
 ## 🌟 About
 
-**AgroVision AI** is an AI-powered mobile application designed for farmers to detect crop diseases using their smartphone camera. Simply take a photo of a crop leaf and the app instantly diagnoses the disease, provides treatment recommendations, locates nearby pesticide stores, and gives real-time environmental risk analysis — all with multilingual support in **English, Telugu, and Hindi**.
+**AgroVision AI** is an AI-powered agricultural assistance application designed to help farmers identify crop diseases using image-based analysis. Users can upload or capture images of affected crops, and the system uses a trained machine learning model to detect the disease.
+
+After detecting the disease, the application provides:
+
+* Disease identification and diagnosis
+* Homemade remedies and organic treatment suggestions
+* Preventive measures to reduce disease spread
+* Basic crop health recommendations
+* User-friendly mobile application support through Android
+
+The application aims to support farmers with quick and accessible disease detection while promoting cost-effective and sustainable farming practices.
+ — all with multilingual support in **English, Telugu, and Hindi**.
 
 ---
 
