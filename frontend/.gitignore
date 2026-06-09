@@ -1,0 +1,19 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+*.log
+
+# Node
+node_modules/
+dist/
+build/
+
+# Android
+.gradle/
+.idea/
+local.properties
+
+# OS
+.DS_Store
+Thumbs.db

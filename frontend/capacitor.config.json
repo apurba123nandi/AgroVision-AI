@@ -1,0 +1,15 @@
+{
+  "appId": "com.agrovision.ai",
+  "appName": "AgroVisionAI",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0,
+      "launchAutoHide": true
+    }
+  },
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  }
+}

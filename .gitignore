@@ -1,0 +1,44 @@
+# ===========================
+# Python / Backend
+# ===========================
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/*.pyo
+backend/.env
+backend/backend.log
+backend/backend_error.log
+*.pt
+
+# ===========================
+# Node / Frontend
+# ===========================
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# ===========================
+# Android Build Artifacts
+# ===========================
+frontend/android/.gradle/
+frontend/android/build/
+frontend/android/app/build/
+frontend/android/local.properties
+frontend/android/.idea/
+frontend/android/capacitor-cordova-android-plugins/
+
+# ===========================
+# OS / IDE
+# ===========================
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+
+# ===========================
+# Secrets / Keys
+# ===========================
+.env
+.env.local
+.env.production
