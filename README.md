@@ -20,8 +20,6 @@
 
 (https://github.com/apurba123nandi/AgroVision-AI/releases/tag/v1.0)
 
-*(Replace the link above with your actual GitHub video URL after uploading)*
-
 ---
 
 ## 🌟 About
