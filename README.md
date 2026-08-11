@@ -187,6 +187,7 @@ AgroVision-AI/
 ## 📷 Screenshots
 
 <img width="216" height="480" alt="image" src="https://github.com/user-attachments/assets/550b903f-7219-4121-96eb-e7ad2cc7ae2c" />
+<img width="216" height="480" alt="image" src="https://github.com/user-attachments/assets/33b3b497-a5f0-4003-9f57-fc0c59081293" />
 
 ---
 
