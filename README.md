@@ -1,7 +1,7 @@
 # 🌿 AgroVision AI — Smart Crop Disease Detection Platform
 
 <p align="center">
-  <img src="demo/banner.png" alt="AgroVision AI Banner" width="100%"/>
+  <img src="https://github.com/user-attachments/assets/4ede9e88-e682-4b15-aed7-44c8b3bc91c1" alt="AgroVision AI Banner" width="100%"/>
 </p>
 
 <p align="center">
