@@ -186,7 +186,7 @@ AgroVision-AI/
 
 ## 📷 Screenshots
 
-> *(Add screenshots of the app here)*
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/550b903f-7219-4121-96eb-e7ad2cc7ae2c" />
 
 ---
 
